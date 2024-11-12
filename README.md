@@ -6,5 +6,8 @@ The jewellery dataset is a collection of images featuring two main types: rings 
 # Data Sources: [NASA’s GOES satellite data, SOHO, or other relevant solar observatories.](https://www.kaggle.com/datasets/sapnilpatel/tanishq-jewellery-dataset)
 
 # FINAL OUTPUT
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/RoshanMundekar/JewelleryClassifyModel/blob/main/model/part.mp4)
+ffmpeg -i part.mp4 -vf "scale=640:-1" -r 10 part.gif
+
+[Download Video](https://github.com/RoshanMundekar/JewelleryClassifyModel/blob/main/model/part.mp4)
+
 
